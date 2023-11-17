@@ -1,0 +1,63 @@
+.fundo{
+    background-color: rgb(166, 223, 194);
+}
+.titulo{
+    color: rgb(133, 77, 14);
+    font-size: 3rem;
+    text-align: center;
+}
+.paragrafoum{
+    color: rgb(133, 77, 14);
+    font-size: 2rem;
+    text-align: center;
+}
+.botaoum{
+    color: rgb(133, 77, 14);
+    background-color: aquamarine;
+    margin-left: 550px;     
+    width: 300px;
+    font-size: 1rem;
+}
+.botaodois{
+    color: rgb(133, 77, 14);
+    background-color: aquamarine;
+    margin-left: 550px;     
+    width: 300px;
+    font-size: 1rem;
+}
+.botaotres{
+    color: rgb(133, 77, 14);
+    background-color: aquamarine;
+    margin-left: 550px;     
+    width: 300px;
+    font-size: 1rem;
+}
+.fraseum{
+    color: rgb(133, 77, 14);
+    font-size: 2rem;
+    text-align: center;
+}
+.tabela{ 
+      border: 2px solid rgb(116, 85, 20);    
+    }
+
+    thead,
+    tfoot {
+      background-color: rgb(122, 73, 26);
+      color: #fff;
+      margin: 500px;
+      right: 1000;
+      
+    }
+.produtoum{
+    size: 5rem; 
+}
+.titulodatab{
+    text-align: center;
+}
+.produtolasanha{
+    margin-left: 100px;
+}
+.botaodaconta{
+    color: crimson;
+}
